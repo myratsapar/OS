@@ -1,4 +1,4 @@
-﻿value1  get       	#gets input from user    
+value1  get       	#gets input from user    
         add value1	#add this input to value1
         store value1	#store this value1
         load value1	#load value1 to ACC
@@ -45,4 +45,4 @@ sum     load value1
         stop          
 value1  0
 value2  0
-sum     0
+sum     0 //12:51 AM 22-Feb-18
