@@ -3,7 +3,7 @@
 typedef int semaphore;
 
 int main(void) {
-   	char string[1024] = {'i', 's', 'y', 'a', 'a', 'n', '\0'};
+   	char string[1024] = {'h', 'o', 'l', 'a', 'a', 'a', '\0'};
    
    	semaphore i;
    	semaphore frequency = 0;
@@ -16,3 +16,4 @@ int main(void) {
    	printf("Frequency = %d", frequency);
 	return 0;
 }
+//4:45 AM 12-May-18
